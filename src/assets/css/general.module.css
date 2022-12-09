@@ -1,0 +1,129 @@
+@font-face {
+    font-family: 'Rubik Black';
+    src: url('../fonts//rubik//Rubik-Black.ttf');
+}
+@font-face {
+    font-family: 'Rubik Black Italic';
+    src: url('../fonts//rubik//Rubik-BlackItalic.ttf');
+}
+@font-face {
+    font-family: 'rubik bold';
+    src: url('../fonts/rubik//Rubik-Bold.ttf');
+}
+@font-face {
+    font-family: 'rubik-bold-italic';
+    src: url('../fonts/rubik/Rubik-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'rubik-extra-bold';
+    src: url('../fonts//rubik/Rubik-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'rubik-extra-bold-italic';
+    src: url('../fonts//rubik/Rubik-ExtraBoldItalic.ttf');
+}
+@font-face {
+    font-family: 'rubik-italic-variable';
+    src: url('../fonts//rubik/Rubik-Italic-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: 'rubik-italic';
+    src: url('../fonts//rubik/Rubik-Italic.ttf');
+}
+@font-face {
+    font-family: 'rubik-light';
+    src: url('../fonts//rubik/Rubik-Light.ttf');
+}
+@font-face {
+    font-family: 'rubik-light-italic';
+    src: url('../fonts//rubik/Rubik-LightItalic.ttf');
+}
+@font-face {
+    font-family: 'rubik-medium';
+    src: url('../fonts//rubik/Rubik-Medium.ttf');
+}
+@font-face{
+    font-family: 'rubik-medium-italic';
+    src: url('../fonts//rubik/Rubik-MediumItalic.ttf');
+}
+@font-face{
+    font-family: 'rubik-regular';
+    src: url('../fonts//rubik/Rubik-Regular.ttf');
+}
+@font-face{
+    font-family: 'rubik-semi-bold';
+    src: url('../fonts//rubik/Rubik-SemiBold.ttf');
+}
+@font-face{
+    font-family: 'rubik-semi-bold-italic';
+    src: url('../fonts//rubik/Rubik-SemiBoldItalic.ttf');
+}
+@font-face{
+    font-family: 'rubik-variable';
+    src: url('../fonts//rubik/Rubik-VariableFont_wght.ttf');
+}
+.rubik-black {
+    font-family: 'Rubik Black', sans-serif;
+    
+}
+.rubik-black-italic {
+    font-family: 'Rubik Black Italic', sans-serif;
+}
+.rubik-bold {
+    font-family: 'rubik bold', sans-serif;
+}
+.rubik-bold-italic {
+    font-family: 'rubik-bold-italic', sans-serif;
+}
+.rubik-extra-bold {
+    font-family: 'rubik-extra-bold', sans-serif;
+}
+.rubik-extra-bold-italic {
+    font-family: 'rubik-extra-bold-italic', sans-serif;
+}
+.rubik-italic-variable {
+    font-family: 'rubik-italic-variable';
+    /* font-weight: bold; */
+}
+.rubik-italic {
+    font-family: 'rubik-italic';
+}
+.rubik-light {
+    font-family: 'rubik-light';
+}
+.rubik-light-italic {
+    font-family: 'rubik-light-italic';
+}
+.rubik-medium {
+    font-family: 'rubik-medium';
+}
+.rubik-medium-italic {
+    font-family: 'rubik-medium-italic';
+}
+.rubik-regular {
+    font-family: 'rubik-regular';
+}
+.rubik-semi-bold {
+    font-family: 'rubik-semi-bold';
+}
+.rubik-semi-bold-italic {
+    font-family: 'rubik-semi-bold-italic';
+}
+.rubik-variable {
+    font-family: 'rubik-variable';
+    /* font-style: italic; */
+}
+.bg-white-abu {
+    background-color: #F6F6F6;
+}
+.bg-white {
+    background-color: #fff;
+}
+
+.text-blue {
+    color: #7E98DF;
+}
+
+
+
+

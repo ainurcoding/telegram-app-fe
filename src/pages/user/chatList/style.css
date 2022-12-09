@@ -1,0 +1,84 @@
+.img-size-profile {
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.white-bg {
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.form-custom {
+    background-color: white;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+
+}
+
+.icon-1 {
+    background-color: #ebebeb;
+    /* background-color: white; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    border-radius: 15px 0 0 15px;
+}
+
+.custom-input {
+    background-color: #ebebeb;
+    border: none;
+    outline: none;
+}
+
+.input-wrapper {
+    border-radius: 0 15px 15px 0;
+    background-color: #ebebeb;
+}
+
+.icon-2 {
+    border-radius: 0 25px 25px 0;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.custom-icon {
+    color: #7E98DF;
+
+}
+
+.blue-bg {
+    background: #7E98DF;
+}
+
+.blue-text {
+    color: #7E98DF !important;
+}
+
+.bulat-biru {
+    border-radius: 50%;
+}
+
+.active-receiver {
+    width: max-content;
+    height: 100px;
+}
+
+.space-empty {
+    height: 100px;
+}
+
+.message-content {
+    background: #7E98DF;
+    border-radius: 15px 15px 15px 5px;
+}
+
+.message-content-sender {
+    background: #66c78d;
+    border-radius: 15px 15px 15px 5px;
+}
+
+.custom-icon-dropdown {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.custom-icon-setting {
+    color: #7E98DF;
+    font-size: 40px;
+}

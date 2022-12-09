@@ -1,0 +1,42 @@
+.card-container {
+    width: 40%;
+    border-radius: 25px;
+}
+
+.line-black {
+    border-top: 2px solid rgb(127, 127, 127);
+}
+
+.button-blue-app {
+    background: #7E98DF;
+    border-radius: 25px;
+}
+
+.button-blue-app:hover {
+    background: #6579b1;
+    border-radius: 25px;
+}
+
+.button-blue {
+    background: #7E98DF;
+    border-radius: 25px;
+    border: none;
+}
+.button-blue:hover {
+    background: #6579b1;
+    border-radius: 25px;
+}
+
+.button-white {
+    color: #7E98DF;
+    background-color: #ffffff;
+    border: 1px solid #7E98DF;
+    border-radius: 25px;
+    transition: 0.5s;
+    
+}
+.button-white:hover {
+    color: #6579b1;
+    border: 1px solid #6579b1;
+    border-radius: 25px;
+}
